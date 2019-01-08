@@ -20,6 +20,10 @@ html {
   color: white;
 }
 
+.highlight {
+  color: blue;
+}
+
 #green {
   background-color: mediumspringgreen;
 }
