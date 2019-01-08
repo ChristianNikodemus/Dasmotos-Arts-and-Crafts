@@ -14,3 +14,12 @@ html {
 .bold {
   font-weight: bold;
 }
+
+.header {
+  font-size: 32px;
+  color: white;
+}
+
+#green {
+  background-color: mediumspringgreen;
+}
